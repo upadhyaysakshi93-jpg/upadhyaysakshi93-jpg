@@ -50,7 +50,10 @@ Actively open for **Data Analyst Internships / Entry-Level Placements** where I 
 
 ---
 
-### 📫 Let’s Connect  
-**LinkedIn:**  https://www.linkedin.com/in/sakshiupadhyayofficial/   
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sakshiupadhyayofficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sakshiupadhyayofficial/" height="30" width="40" /></a>
+</p>
+   
 **Email:** upadhyaysakshi93@gmail.com
 
