@@ -15,8 +15,7 @@ Currently building domain-based real-world projects and documenting my entire jo
 ### 🔧 Skills & Tools I Work With
 - **Programming:** Python  
 - **Databases:** SQL  
-- **Visualization:** Power BI, Excel Dashboards  
-- **Libraries:** Pandas, NumPy, Matplotlib  
+- **Visualization:** Power BI, Excel Dashboards   
 - **Concepts:** EDA, KPI Design, Data Cleaning, Data Wrangling, Business Insight Generation
 
 ---
